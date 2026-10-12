@@ -1,0 +1,68 @@
+machine,service_date,action,downtime,record_period
+M001,2025-07-26,Lubrication,7.45,historical
+M001,2025-10-10,Calibration,5.05,historical
+M001,2025-07-25,Part Replacement,1.64,historical
+M001,2025-11-21,Lubrication,0.69,historical
+M001,2025-08-01,Lubrication,4.64,historical
+M001,2025-03-23,Lubrication,8.58,historical
+M002,2025-07-22,Inspection,1.67,historical
+M002,2025-07-08,Part Replacement,9.75,historical
+M003,2025-04-04,Part Replacement,1.99,historical
+M005,2025-10-05,Inspection,2.68,historical
+M006,2025-05-23,Part Replacement,1.77,historical
+M006,2025-08-04,Part Replacement,8.58,historical
+M006,2025-09-25,Calibration,9.68,historical
+M007,2025-05-11,Lubrication,2.43,historical
+M007,2025-10-06,Lubrication,7.99,historical
+M007,2025-05-25,Calibration,4.41,historical
+M009,2025-11-20,Calibration,1.43,historical
+M009,2025-07-16,Part Replacement,2.31,historical
+M010,2025-09-01,Inspection,0.57,historical
+M010,2025-05-06,Calibration,2.2,historical
+M011,2025-01-28,Inspection,4.0,historical
+M011,2025-03-25,Lubrication,5.33,historical
+M013,2025-10-29,Part Replacement,6.16,historical
+M014,2025-03-14,Inspection,8.38,historical
+M016,2025-05-10,Part Replacement,14.72,historical
+M017,2025-01-22,Part Replacement,5.05,historical
+M018,2025-08-05,Lubrication,3.99,historical
+M018,2025-08-24,Calibration,2.96,historical
+M019,2025-06-29,Lubrication,5.45,historical
+M019,2025-08-22,Lubrication,6.73,historical
+M020,2025-10-24,Inspection,2.29,historical
+M021,2025-09-07,Inspection,8.5,historical
+M021,2025-01-08,Inspection,7.73,historical
+M023,2025-12-23,Inspection,0.76,historical
+M024,2025-10-13,Calibration,12.52,historical
+M025,2025-12-29,Part Replacement,1.43,historical
+M026,2025-03-29,Part Replacement,3.57,historical
+M027,2025-07-09,Calibration,3.57,historical
+M027,2025-08-28,Inspection,1.48,historical
+M028,2025-03-27,Calibration,5.22,historical
+M028,2025-06-25,Calibration,2.9,historical
+M029,2025-02-11,Lubrication,1.9,historical
+M030,2025-09-03,Lubrication,10.68,historical
+M032,2025-10-15,Part Replacement,8.18,historical
+M033,2025-03-08,Part Replacement,3.67,historical
+M034,2025-04-26,Calibration,3.53,historical
+M037,2025-10-09,Inspection,4.31,historical
+M038,2025-10-18,Inspection,3.62,historical
+M039,2025-03-06,Part Replacement,10.73,historical
+M039,2025-04-02,Lubrication,2.46,historical
+M040,2025-10-05,Lubrication,1.78,historical
+M001,2026-02-03,Urgent Repair,17.55,future_outcome
+M003,2026-02-08,Urgent Repair,14.29,future_outcome
+M004,2026-02-01,Urgent Repair,12.48,future_outcome
+M006,2026-02-01,Urgent Repair,4.86,future_outcome
+M007,2026-02-04,Urgent Repair,12.36,future_outcome
+M008,2026-02-13,Urgent Repair,14.11,future_outcome
+M009,2026-02-14,Urgent Repair,11.43,future_outcome
+M011,2026-02-11,Urgent Repair,5.51,future_outcome
+M012,2026-02-08,Urgent Repair,6.1,future_outcome
+M021,2026-02-10,Urgent Repair,17.27,future_outcome
+M024,2026-02-01,Urgent Repair,14.76,future_outcome
+M025,2026-02-07,Urgent Repair,16.59,future_outcome
+M030,2026-02-05,Urgent Repair,6.22,future_outcome
+M033,2026-02-01,Urgent Repair,4.35,future_outcome
+M037,2026-01-31,Urgent Repair,7.32,future_outcome
+M040,2026-02-02,Urgent Repair,11.71,future_outcome
